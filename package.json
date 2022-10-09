@@ -1,0 +1,24 @@
+{
+  "name": "rate-limit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoozo/rate-limit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoozo/rate-limit/issues"
+  },
+  "homepage": "https://github.com/yoozo/rate-limit#readme",
+  "dependencies": {
+    "@types/node": "^18.8.3",
+    "ioredis": "^5.2.3",
+    "typescript": "^4.8.4"
+  }
+}
